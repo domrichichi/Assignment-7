@@ -25,7 +25,7 @@ h1 {
 }
 
 .masthead {
-	background-image: url("../img/logo.svg"), url("../images/logo.svg"), url("../img/background-waves.png");
+	background-image: url("../img/logo.svg"), url("../img/logo.svg"), url("../img/background-waves.png");
 	background-size: 15% auto, 15% auto, 100px auto;
 	background-repeat: no-repeat, no-repeat, repeat;
 	background-position: right 20%, left 20%, left top;
@@ -78,7 +78,7 @@ nav li:hover {
 }
 
 .banner {
-	background-image: url("../images/rocks.jpg");
+	background-image: url("../img/rocks.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	display: block;
