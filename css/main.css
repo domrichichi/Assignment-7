@@ -71,3 +71,8 @@ nav a {
 	opacity: 0.5;
 	display: block;
 }
+
+nav li:hover {
+	background-color: #512200;
+	opacity: 0.8;
+}
