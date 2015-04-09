@@ -5,3 +5,13 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+	margin: 0;
+	font-family:'Dosis', sans-serif;
+}
+
+img {
+	width: 100%;
+	display: block;
+}
