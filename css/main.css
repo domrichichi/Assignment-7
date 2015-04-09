@@ -133,7 +133,7 @@ nav li:hover {
 
 footer {
 	clear: both;
-	background-image: url("../images/logo.svg");
+	background-image: url("../img/logo.svg");
 	background-repeat: no-repeat;
 	background-size: 30px auto;
 	background-position: center 10px;
