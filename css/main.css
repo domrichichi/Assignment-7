@@ -126,3 +126,14 @@ nav li:hover {
 .bugbox a:hover {
 	background-image: linear-gradient(to bottom, #39833f, #2d4d24);
 }
+
+footer {
+	clear: both;
+	background-image: url("../images/logo.svg");
+	background-repeat: no-repeat;
+	background-size: 30px auto;
+	background-position: center 10px;
+	background-color: rgba(81, 34, 0, 0.5);
+	padding: 0;
+	margin: 0;
+}
